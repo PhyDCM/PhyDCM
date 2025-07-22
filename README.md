@@ -1,7 +1,7 @@
 
 # PhyDCM - Medical Imaging AI
 
-![Banner](banner.png)
+![Banner](assets/panner.jpg)
 
 **PhyDCM** is a research-driven project developed by a passionate team of Medical Physics students from the University of Al-Qadisiyah.  
 Our aim is to create cutting-edge tools that utilize artificial intelligence to enhance medical image processing and analysis.
@@ -27,7 +27,7 @@ To build smart, accessible software tools that assist doctors and radiologists i
 
 ## 📷 Logo
 
-![Logo](logo.png)
+![Logo](assets/logo.jpg)
 
 ---
 
