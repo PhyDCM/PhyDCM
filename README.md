@@ -7,7 +7,7 @@ PhyDCM v3.0.0 focuses on **import-time performance**, **optional heavy dependenc
 ## Visual Identity (Logo + Team)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/main/assets/logo.jpg" alt="PhyDCM Logo" width="160"/>
+  <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/v3.0.0/assets/logo.jpg" alt="PhyDCM Logo" width="160"/>
 </p>
 
 ### Research Team
@@ -16,39 +16,31 @@ PhyDCM v3.0.0 focuses on **import-time performance**, **optional heavy dependenc
   <tr>
     <td align="center" width="220">
       <b>Supervisor</b><br/>
-      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/main/assets/team/dr_hayder.jpg" alt="Dr. Hayder" width="160"/><br/>
+      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/v3.0.0/assets/team/dr_hayder.jpg" alt="Dr. Hayder" width="160"/><br/>
       <sub><b>Dr. Hayder</b></sub>
     </td>
     <td align="center" width="220">
       <b>Students</b><br/>
-      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/main/assets/team/mohammed_hadi.jpg" alt="Mohammed Hadi" width="120"/><br/>
+      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/v3.0.0/assets/team/mohammed_hadi.jpg" alt="Mohammed Hadi" width="120"/><br/>
       <sub><b>Mohammed Hadi</b></sub>
     </td>
     <td align="center" width="220">
       <b>Students</b><br/>
-      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/main/assets/team/mohammed_hassan.jpg" alt="Mohammed Hassan" width="120"/><br/>
+      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/v3.0.0/assets/team/mohammed_hassan.jpg" alt="Mohammed Hassan" width="120"/><br/>
       <sub><b>Mohammed Hassan</b></sub>
     </td>
     <td align="center" width="220">
       <b>Students</b><br/>
-      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/main/assets/team/haider_ali.jpg" alt="Haider Ali" width="120"/><br/>
+      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/v3.0.0/assets/team/haider_ali.jpg" alt="Haider Ali" width="120"/><br/>
       <sub><b>Haider Ali</b></sub>
     </td>
     <td align="center" width="220">
       <b>Students</b><br/>
-      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/main/assets/team/ali_hussein.jpg" alt="Ali Hussein" width="120"/><br/>
+      <img src="https://raw.githubusercontent.com/PhyDCM/PhyDCM/v3.0.0/assets/team/ali_hussein.jpg" alt="Ali Hussein" width="120"/><br/>
       <sub><b>Ali Hussein</b></sub>
     </td>
   </tr>
 </table>
-
-> Add these files to your repository:
-> - `assets/logo.jpg`
-> - `assets/team/dr_hayder.jpg`
-> - `assets/team/mohammed_hadi.jpg`
-> - `assets/team/mohammed_hassan.jpg`
-> - `assets/team/haider_ali.jpg`
-> - `assets/team/ali_hussein.jpg`
 
 ---
 
